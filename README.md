@@ -1,2 +1,2 @@
 # BootstrapGridTest
-Testing the grid in bootstrap v5.1
+Testing css grid in bootstrap v5.1
